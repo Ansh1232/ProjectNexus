@@ -40,5 +40,5 @@ pids
 *.swp
 *.swo
 
-# Ignore frontend repo
-nexus-front/ 
+
+ 
