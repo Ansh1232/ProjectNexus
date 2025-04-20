@@ -1,6 +1,6 @@
 # ProjectNexus
 
-ProjectNexus is a comprehensive project management system designed for developers to create, manage, and share their projects. It provides a collaborative platform where users can discover, contribute to, and follow projects of interest.
+ProjectNexus is a comprehensive project Sharing Website designed for Studetnts and beginner developers to add, manage, and share their projects. It provides a collaborative platform where users can discover, contribute to, and follow projects of interest.
 
 ## Features
 
