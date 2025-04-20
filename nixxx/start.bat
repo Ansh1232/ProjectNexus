@@ -1,0 +1,3 @@
+@echo off
+echo Starting Project Nexus Backend Server...
+npm run dev 
